@@ -32,6 +32,7 @@ import com.w2a.utilities.TestUtil;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
+	//Testing
 	//again test2
 	/*
 	 * WebDriver - done Properties - done Logs - log4j jar, .log,
@@ -230,7 +231,7 @@ public class TestBase {
 
 		log.debug("test execution completed !!!");
 		
-		//Testing-1
+		
 	
 	}
 }
