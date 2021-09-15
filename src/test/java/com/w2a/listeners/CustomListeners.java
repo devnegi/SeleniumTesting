@@ -149,8 +149,4 @@ public class CustomListeners extends TestBase implements ITestListener,ISuiteLis
 //Testing 8
 //Testing 9
 //Testing 10
-<<<<<<< HEAD
-	
-=======
->>>>>>> a2e4b83661bdb2f5188ce2a0dd60ced72f6bbc83
 }
